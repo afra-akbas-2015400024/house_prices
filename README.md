@@ -1,7 +1,8 @@
 # Prediction of house prices - Kaggle
 
-In this repository, I try to predict the price of houses. I used [Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) for training and testing my project. With different regression techniques, we can estimate the price of a house and use it in several fields.
-I used [Decision Tree Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html), and [Gradient Boosting Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html?highlight=gradient#sklearn.ensemble.GradientBoostingRegressor) in my project so that we can see the performance of these two regressors.
+In this repository, I try to predict the price of houses. I used [Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) for training and testing my project. With different regression techniques, we can estimate the price of a house and use it in several fields. I used [Decision Tree Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html), and [Gradient Boosting Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html?highlight=gradient#sklearn.ensemble.GradientBoostingRegressor) in my project so that we can see the performance of these two regressors.
+
+I have also kernel of this project in Kaggle, you can find [here.](https://www.kaggle.com/afraakbas/kernel6f1a8ea054/notebook)
 
 The procedure I follow:
           
